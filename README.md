@@ -7,7 +7,7 @@
 
 ### 🥇 How many people visited my profile (reload for increasing):
 <picture>
-<img width="300" height="70" src="https://komarev.com/ghpvc/?username=cuong2905say&style=flat-square&color=blue" alt=""/>
+<img width="200" height="45" src="https://komarev.com/ghpvc/?username=cuong2905say&style=flat-square&color=blue" alt=""/>
 </picture>
 
 ### 🔥 My art :
